@@ -35,7 +35,7 @@ $ ./deeplcd-test
 ```
 
 ## Demo
-The loop result is in xxx
+The loop result is in online-demo_ws/loop-points.csv
 
 
 ## Online Loop Closure Demo with ROS
