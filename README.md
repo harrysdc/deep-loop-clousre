@@ -27,12 +27,6 @@ $ cmake -DCaffe_ROOT_DIR=</path/to/caffe> .. && make
 ```
 instead.
 
-## To Run Tests
-
-```
-$ cd /path/to/build
-$ ./deeplcd-test
-```
 
 ## Demo
 The loop result is in online-demo_ws/loop-points.csv
