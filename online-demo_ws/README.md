@@ -11,5 +11,5 @@ catkin_make -DCaffe_ROOT_DIR=<path/to/caffe>
 
 $ roscore
 $ source devel/setup.bash
-roslaunch launch/online-demo.launch
+$ roslaunch launch/online-demo.launch
 
