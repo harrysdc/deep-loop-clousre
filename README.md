@@ -1,7 +1,7 @@
 # Deep-loop-clousre
 A C++ library for online SLAM loop closure using CALC models.
 
-![Alt text](https://github.com/harrysdc/deep-loop-clousre/blob/main/loop-kitti-09.png)
+![Alt text](https://github.com/harrysdc/deep-loop-clousre/blob/main/loop-kitti-09.png width="30%" height="30%")
 
 ## Dependencies
 
