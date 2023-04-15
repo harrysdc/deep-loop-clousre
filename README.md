@@ -10,23 +10,13 @@ Required:
 - Boost filesystem
 - Caffe 
 
-Optional but HIGHLY Recommended:
-- CUDA
-
-## To Compile
+## Getting started
 
 ```
 $ mkdir build && cd build
-$ cmake .. && make # Already set to Release build
-```
-
-Note that if your caffe is not installed in ~/caffe, you must use 
-
-```
 $ cmake -DCaffe_ROOT_DIR=</path/to/caffe> .. && make
+$ roslaunch launch/online-demo.launch
 ```
-instead.
-
 
 ## Demo
 The loop result is in online-demo_ws/loop-points.csv
