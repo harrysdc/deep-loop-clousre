@@ -23,8 +23,9 @@ $ cmake -DCaffe_ROOT_DIR=<path/to/caffe> .. && make
 - ROS Melodic
 
 ## Build
-
+```
 catkin_make -DCaffe_ROOT_DIR=<path/to/caffe>
+```
 
 ## Run
 ```
