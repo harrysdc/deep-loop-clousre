@@ -14,8 +14,24 @@ Required:
 
 ```
 $ mkdir build && cd build
-$ cmake -DCaffe_ROOT_DIR=</path/to/caffe> .. && make
+$ cmake -DCaffe_ROOT_DIR=<path/to/caffe> .. && make
 ```
 
-## Demo
-The loop result is in online-demo_ws/loop-points.csv
+## ROS Demo
+
+## Dependencies
+- ROS Melodic
+
+## Build
+
+catkin_make -DCaffe_ROOT_DIR=<path/to/caffe>
+
+## Run
+```
+$ roscore
+$ source devel/setup.bash
+$ roslaunch launch/online-demo.launch
+```
+
+## Result
+see online-demo_ws/loop-points.csv
