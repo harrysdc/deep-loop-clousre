@@ -1,16 +1,6 @@
 # Deep-loop-clousre
 
 A C++ library for online SLAM loop closure using CALC models.
-```
-@InProceedings{Merrill2018RSS,
-  Title                    = {Lightweight Unsupervised Deep Loop Closure},
-  Author                   = {Nathaniel Merrill and Guoquan Huang},
-  Booktitle                = {Proc. of Robotics: Science and Systems (RSS)},
-  Year                     = {2018},
-  Address                  = {Pittsburgh, PA},
-  Month                    = jun # { 26-30, }
-}
-'''
 
 ## Dependencies
 
@@ -43,3 +33,14 @@ $ roslaunch launch/online-demo.launch
 ```
 ## Result
 see online-demo_ws/loop-points.csv
+
+```
+@InProceedings{Merrill2018RSS,
+  Title                    = {Lightweight Unsupervised Deep Loop Closure},
+  Author                   = {Nathaniel Merrill and Guoquan Huang},
+  Booktitle                = {Proc. of Robotics: Science and Systems (RSS)},
+  Year                     = {2018},
+  Address                  = {Pittsburgh, PA},
+  Month                    = jun # { 26-30, }
+}
+```
