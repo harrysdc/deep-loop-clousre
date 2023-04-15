@@ -2,6 +2,9 @@
 A C++ library for online SLAM loop closure using CALC models.
 
 <img src="https://github.com/harrysdc/deep-loop-clousre/blob/main/loop-kitti-09.png"  width="30%" height="30%">
+<img src="https://github.com/harrysdc/deep-loop-clousre/blob/main/loop-kitti-00.png"  width="30%" height="30%">
+<img src="https://github.com/harrysdc/deep-loop-clousre/blob/main/loop-kitti-05.png"  width="30%" height="30%">
+
 ## Dependencies
 
 Required:
