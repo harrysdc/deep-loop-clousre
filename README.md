@@ -10,12 +10,11 @@ Required:
 - Boost filesystem
 - Caffe 
 
-## Getting started
+## Build
 
 ```
 $ mkdir build && cd build
 $ cmake -DCaffe_ROOT_DIR=</path/to/caffe> .. && make
-$ roslaunch launch/online-demo.launch
 ```
 
 ## Demo
