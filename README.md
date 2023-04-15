@@ -1,5 +1,9 @@
 # Deep-loop-clousre
-
+  src="loop-kitti-09.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
 A C++ library for online SLAM loop closure using CALC models.
 
 ## Dependencies
@@ -31,8 +35,6 @@ $ roscore
 $ source devel/setup.bash
 $ roslaunch launch/online-demo.launch
 ```
-## Result
-see online-demo_ws/loop-points.csv
 
 ```
 @InProceedings{Merrill2018RSS,
