@@ -10,6 +10,7 @@ A C++ library for online SLAM loop closure using CALC models.
   Address                  = {Pittsburgh, PA},
   Month                    = jun # { 26-30, }
 }
+'''
 
 ## Dependencies
 
