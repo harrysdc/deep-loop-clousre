@@ -38,6 +38,7 @@ $ source devel/setup.bash
 $ roslaunch launch/online-demo.launch
 ```
 
+## Reference
 ```
 @InProceedings{Merrill2018RSS,
   Title                    = {Lightweight Unsupervised Deep Loop Closure},
