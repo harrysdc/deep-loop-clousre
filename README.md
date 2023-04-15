@@ -18,7 +18,6 @@ $ cmake -DCaffe_ROOT_DIR=<path/to/caffe> .. && make
 ```
 
 ## ROS Demo
-
 ## Dependencies
 - ROS Melodic
 
@@ -26,13 +25,11 @@ $ cmake -DCaffe_ROOT_DIR=<path/to/caffe> .. && make
 ```
 catkin_make -DCaffe_ROOT_DIR=<path/to/caffe>
 ```
-
 ## Run
 ```
 $ roscore
 $ source devel/setup.bash
 $ roslaunch launch/online-demo.launch
 ```
-
 ## Result
 see online-demo_ws/loop-points.csv
